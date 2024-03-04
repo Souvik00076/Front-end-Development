@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.herosection1{
+    
+    background:url('./images/hero1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mask{
+    background: black;
+}
+.herosection2{
+    background: url('./images/hero2.jpg');
+    background-attachment: fixed;
+    background-size: 100% 110%;
+    background-repeat: no-repeat;
+}
